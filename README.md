@@ -146,12 +146,6 @@ A comprehensive lottery and gaming platform with multiple components:
 - **OnSite & OnSiteSheet** - Field management and documentation tools
 - **Quickway** - Learning and development project
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imuhammadnadeem&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imuhammadnadeem&layout=compact&theme=radical)
-
 ## 🔧 Skills & Expertise
 
 ### Mobile Development Skills

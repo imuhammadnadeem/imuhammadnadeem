@@ -199,17 +199,53 @@ A comprehensive lottery and gaming platform with multiple components:
 
 ## 📚 Repositories
 
-### Open Source Projects
+### GitHub Repositories
+
+#### Dolioo Platform Repositories
 
 - [dolioo_users](https://github.com/imuhammadnadeem/dolioo_users) - Flutter mobile app for Dolioo users
 - [dolioo_partners](https://github.com/imuhammadnadeem/dolioo_partners) - Flutter app for Dolioo business partners
 - [Dolioo-Backend](https://github.com/imuhammadnadeem/Dolioo-Backend) - Node.js backend API
+
+#### Cashpass Platform
+
+- [Cashpass-Mobile-App](https://github.com/imuhammadnadeem/Cashpass-Mobile-App) - Mobile application
+- [Cashpass-Backend](https://github.com/imuhammadnadeem/Cashpass-Backend) - Backend API
+- [Cashpass-Admin-Panel](https://github.com/imuhammadnadeem/Cashpass-Admin-Panel) - Administrative panel
+
+#### Other GitHub Projects
+
 - [Score-Book](https://github.com/imuhammadnadeem/Score-Book) - Score tracking Flutter app
 - [Tisegnalo-Backend](https://github.com/imuhammadnadeem/Tisegnalo-Backend) - Backend services for Tisegnalo
+- [LoyaltyProgram](https://github.com/imuhammadnadeem/LoyaltyProgram) - Loyalty program system
+- [MadCash](https://github.com/imuhammadnadeem/MadCash) - E-commerce platform (Web & Mobile)
+- [MadCash-Backend](https://github.com/imuhammadnadeem/MadCash-Backend) - Backend API for MadCash
+- [OnSite](https://github.com/imuhammadnadeem/OnSite) - Field management application
+- [onsitesheet](https://github.com/imuhammadnadeem/onsitesheet) - On-site documentation tool
+- [Quickway](https://github.com/imuhammadnadeem/Quickway) - Learning and development project
+- [AURIX](https://github.com/imuhammadnadeem/AURIX) - AURIX project
+- [SAKA-Backend](https://github.com/imuhammadnadeem/SAKA-Backend) - SAKA platform backend
 
 ### Organizations & Collaborations
 
-- **BNG-APPS** - Saka platform development (lottery and gaming system)
+#### BNG-APPS (Lottery & Gaming Platform)
+
+- [saka_mobile](https://github.com/BNG-APPS-LOTTO/saka_mobile) - Ionic/Angular mobile application
+- [saka_backend](https://github.com/BNG-APPS-LOTTO/saka_backend) - Backend API services
+- [saka_admin](https://github.com/BNG-APPS-LOTTO/saka_admin) - Administrative web interface
+- [saka_web_admin](https://github.com/BNG-APPS-LOTTO/saka_web_admin) - Web-based admin panel
+
+#### Edufi Tech (Bitbucket)
+
+- [edufi-parent-app](https://bitbucket.org/edufi-tech/edufi-parent-app) - Parent mobile application
+- [edufi-topup-app](https://bitbucket.org/edufi-tech/edufi-topup-app) - Topup mobile application
+- [saudi-parent-app](https://bitbucket.org/edufi-tech/saudi-parent-app) - Saudi parent application
+- [edufi-admin-portal](https://bitbucket.org/edufi-tech/edufi-admin-portal) - Administrative portal
+- [edufi-be](https://bitbucket.org/edufi-tech/edufi-be) - Backend API
+
+#### Other Collaborations
+
+- [masjidNoorLI-ionic7](https://github.com/iamnaumanmalik/masjidNoorLI-ionic7) - Mosque management system (Ionic)
 
 ## 🌱 Currently Learning
 

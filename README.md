@@ -2,13 +2,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Developer** with expertise in building cross-platform mobile applications. I specialize in creating scalable, performant apps using modern Flutter practices and clean architecture principles.
+I'm a passionate **Full Stack Developer** specializing in **Ionic Framework | React-Native | Flutter App Development** and **Node.js | Express | MongoDB** backend development. I have expertise in building cross-platform mobile applications and scalable backend APIs. I specialize in creating performant apps using modern Flutter, React Native, Ionic practices, and robust Node.js/Express/MongoDB backend solutions with clean architecture principles.
 
 ## 💻 Tech Stack
 
 ### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -20,6 +22,10 @@ I'm a passionate **Flutter Developer** with expertise in building cross-platform
 - **Clean Architecture** - Separation of concerns
 
 ### Backend & Services
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Node.js** - Server-side JavaScript runtime
 - **Express.js** - Web application framework
@@ -151,6 +157,8 @@ A comprehensive lottery and gaming platform with multiple components:
 ### Mobile Development Skills
 
 - ✅ **Flutter & Dart Development**
+- ✅ **React Native Development**
+- ✅ **Ionic Framework Development**
 - ✅ **Cross-platform Development (iOS & Android)**
 - ✅ **Mobile App Architecture & Design Patterns**
 - ✅ **State Management (GetX, Redux, Redux Thunk)**

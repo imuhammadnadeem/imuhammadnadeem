@@ -1,5 +1,9 @@
 # Hi there, I'm Muhammad Nadeem! 👋
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imuhammadnadeem)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/imuhammadnadeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imuhammadnadeem)
+
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** specializing in **Ionic Framework | React-Native | Flutter App Development** and **Node.js | Express | MongoDB** backend development. I have expertise in building cross-platform mobile applications and scalable backend APIs. I specialize in creating performant apps using modern Flutter, React Native, Ionic practices, and robust Node.js/Express/MongoDB backend solutions with clean architecture principles.
@@ -152,6 +156,58 @@ A comprehensive lottery and gaming platform with multiple components:
 - **OnSite & OnSiteSheet** - Field management and documentation tools
 - **Quickway** - Learning and development project
 
+## 💼 Upwork Projects
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/imuhammadnadeem)
+
+**Profile:** [View my Upwork Profile](https://www.upwork.com/freelancers/imuhammadnadeem) | [Alternative Link](https://www.upwork.com/freelancers/~0111b0a7441f71dd14)
+
+**Job Success Score:** 100%  
+**Location:** Lahore, Pakistan  
+**Completed Jobs:** 40+ projects  
+**Total Hours Worked:** 60+ hours  
+**Education:** Computer Science Degree  
+**Specialization:** Mobile & Web Application Development (Ionic, React Native, Flutter, MERN/MEAN Stack)
+
+### Work History & Completed Projects
+
+I have successfully completed **40 projects** on Upwork, delivering high-quality solutions across various domains. My work history includes projects in:
+
+**Core Skills & Technologies:**
+
+- Mobile App Development (Ionic Framework, React Native, Flutter)
+- Full-stack Web Development (MERN/MEAN Stack)
+- Backend API Development (Node.js, Express.js, MongoDB)
+- Payment Functionality Integration
+- Push Notifications Implementation
+- Firebase Services Integration
+- Map Integration & Geolocation
+- Social Media Account Integration
+- Web Application Development
+- ChatGPT Integration
+- Database Administration (MongoDB)
+
+**Project Types:**
+
+- Cross-platform mobile app development
+- App redesign and UI/UX improvements
+- Full-stack web applications
+- Backend API services
+- Real-time applications
+- Payment gateway integration
+
+**Key Strengths:**
+
+- ✅ 100% Job Success Score
+- ✅ Efficient problem-solving and delivery
+- ✅ Excellent communication skills
+- ✅ Patient and understanding approach
+- ✅ Professional and reliable solutions
+- ✅ Active contributor to developer communities (StackOverflow)
+- ✅ Flexible working hours and contract-to-hire availability
+
+*For detailed project information and more client feedback, please visit my [Upwork profile](https://www.upwork.com/freelancers/imuhammadnadeem).*
+
 ## 🔧 Skills & Expertise
 
 ### Mobile Development Skills
@@ -258,7 +314,13 @@ A comprehensive lottery and gaming platform with multiple components:
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imuhammadnadeem)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/imuhammadnadeem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imuhammadnadeem)
+
+**Profiles:**
+
+- 💼 **Upwork:** [upwork.com/freelancers/imuhammadnadeem](https://www.upwork.com/freelancers/imuhammadnadeem) - View my completed projects and client feedback
+- 💼 **LinkedIn:** [linkedin.com/in/imuhammadnadeem](https://www.linkedin.com/in/imuhammadnadeem) - Connect professionally
 
 ## 💡 Fun Fact
 
